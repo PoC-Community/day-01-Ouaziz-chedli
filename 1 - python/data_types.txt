@@ -1,2 +1,7 @@
-int
-str
+<class 'int'>
+<class 'str'>
+<class 'float'>
+<class 'list'>
+<class 'dict'>
+<class 'bool'>
+<class 'NoneType'>
